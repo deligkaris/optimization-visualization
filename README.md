@@ -1,6 +1,8 @@
 # Geometry Optimization Visualization with VTK
 
-VTK script that can visualize the results of a geometry optimization of a bimolecular complex (geometry, forces, and hessian).
+VTK script that can visualize the results of a geometry optimization of a bimolecular complex (geometry, forces, and hessian). 
+
+The extractDATA.pl script is use to transform the geometry optimization results to a format VTK can read.
 
 To do:
 
